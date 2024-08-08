@@ -1,0 +1,34 @@
+.title {
+    text-align:center;
+    color:orange;
+    text-shadow: 
+    -1px -1px 0 black,  
+     1px -1px 0 black,
+    -1px  1px 0 black,
+     1px  1px 0 black;
+  }
+    
+
+.image-container {
+    text-align:center;
+}
+
+
+.info {
+    color:cornflowerblue;
+    text-align:center;
+}
+
+.intro-section {
+    background-image: url(./assests/images/Cash\ Cat.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+body {
+    background-image: url(./assests/images/old-paper-texture-600nw-758024551.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
