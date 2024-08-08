@@ -28,6 +28,7 @@
 }
 
 body {
+    font-family: "Times New Romans", serif; 
     background-image: url(./assests/images/old-paper-texture-600nw-758024551.png);
     background-size: cover;
     background-position: center;
