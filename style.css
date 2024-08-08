@@ -1,5 +1,4 @@
 .title {
-    font-family: 'Poppins', sans-serif;
     text-align:center;
     color:orange;
     text-shadow: 
@@ -25,11 +24,10 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    padding: 100%; 
+    padding:100px;
 }
 
 body {
-    font-family: "Times New Roman", serif; 
     background-image: url(./assests/images/old-paper-texture-600nw-758024551.png);
     background-size: cover;
     background-position: center;
