@@ -25,6 +25,9 @@
     background-position: center;
     background-repeat: no-repeat;
     padding:100px;
+    width: 100%; /* Ensures the div takes full width */
+    height: 100%; /* Ensures the div takes full height */
+    box-sizing: border-box; /* Ensures padding is included in the element's total width and height */
 }
 
 body {
