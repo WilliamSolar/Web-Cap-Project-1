@@ -25,9 +25,6 @@
     background-position: center;
     background-repeat: no-repeat;
     padding:100px;
-    width: 100%; /* Ensures the div takes full width */
-    height: 100%; /* Ensures the div takes full height */
-    box-sizing: border-box; /* Ensures padding is included in the element's total width and height */
 }
 
 body {
@@ -35,15 +32,29 @@ body {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+    font-family:'Times New Roman', Times, serif; 
 }
+
 
 .Section-1 {
     margin-left: 25%; 
-    width: 50%; 
-} 
+    width: 70%; 
+}
 
 .Section-2 {
     margin-left: 25%; 
-    width: 50%; 
+    width: 70%; 
+}
+
+#Skills li {
+    margin-left: -5%; 
+}
+
+.WE li {
+    margin-left: -5%
+}
+
+.Proj li {
+    margin-left: -5%
 }
 
