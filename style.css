@@ -36,3 +36,14 @@ body {
     background-position: center;
     background-repeat: no-repeat;
 }
+
+.Section-1 {
+    margin-left: 25%
+    width: 50%
+} 
+
+.Section-2 {
+    margin-left: 25%
+    width: 50% 
+}
+
